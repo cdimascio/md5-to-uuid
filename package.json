@@ -1,6 +1,6 @@
 {
   "name": "md5-to-uuid",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Converts MD5 hashes to UUIDs",
   "main": "lib/index.js",
   "scripts": {
@@ -19,9 +19,9 @@
   "author": "Carmine M. DiMascio (cdimascio@gmail.com)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cdimascio/md5-node/issues"
+    "url": "https://github.com/cdimascio/md5-to-uuid/issues"
   },
-  "homepage": "https://github.com/cdimascio/md5-node#readme",
+  "homepage": "https://github.com/cdimascio/md5-to-uuid#readme",
   "devDependencies": {
     "chai": "^4.2.0",
     "md5-nodejs": "^1.0.0",
