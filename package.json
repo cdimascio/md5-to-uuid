@@ -1,6 +1,6 @@
 {
   "name": "md5-to-uuid",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Converts MD5 hashes to UUIDs",
   "main": "lib/index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cdimascio/md5-node.git"
+    "url": "git+https://github.com/cdimascio/md5-to-uuid.git"
   },
   "keywords": [
     "md5",
