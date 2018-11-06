@@ -1,5 +1,5 @@
 const expect = require('chai').expect;
-const { md5 } = require('md5-nodejs');
+const md5 = require('md5-nodejs');
 const md5ToUuid = require('../lib/index');
 
 describe('md5-to-uuid', function() {
