@@ -1,6 +1,6 @@
 {
   "name": "md5-to-uuid",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Converts MD5 hashes to UUIDs",
   "main": "lib/index.js",
   "scripts": {
@@ -24,7 +24,9 @@
   "homepage": "https://github.com/cdimascio/md5-to-uuid#readme",
   "devDependencies": {
     "chai": "^4.2.0",
-    "md5-nodejs": "^1.0.0",
     "mocha": "^5.2.0"
+  },
+  "dependencies": {
+    "md5-nodejs": "^1.0.2"
   }
 }
