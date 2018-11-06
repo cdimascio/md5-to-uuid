@@ -1,6 +1,6 @@
 {
   "name": "md5-to-uuid",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Converts MD5 hashes to UUIDs",
   "main": "lib/index.js",
   "scripts": {
