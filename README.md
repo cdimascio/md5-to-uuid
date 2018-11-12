@@ -1,8 +1,8 @@
 # md5-to-uuid
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/873f7237831c40fc8db306eaf8f3069c)](https://app.codacy.com/app/cdimascio/md5-to-uuid?utm_source=github.com&utm_medium=referral&utm_content=cdimascio/md5-to-uuid&utm_campaign=Badge_Grade_Dashboard)
 ![](https://travis-ci.com/cdimascio/md5-to-uuid.svg?branch=master)
 ![](https://img.shields.io/badge/license-MIT-blue.svg)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/873f7237831c40fc8db306eaf8f3069c)](https://app.codacy.com/app/cdimascio/md5-to-uuid?utm_source=github.com&utm_medium=referral&utm_content=cdimascio/md5-to-uuid&utm_campaign=Badge_Grade_Dashboard)
 
 A node module that converts MD5 hashes to UUIDs
 
